@@ -1,6 +1,6 @@
 {
   "name": "nestjs-algoliasearch",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "The Algoliasearch NestJS module based on the official algoliasearch package",
   "main": "index.js",
   "scripts": {
